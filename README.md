@@ -38,7 +38,7 @@ erDiagram
     security ||--o{ dim_customer : region
 ```
 
-> ![Dashboard Preview](Data%20Model.png)
+> ![Dashboard Preview](Data%20model.png)
 ### Tables
 
 | Type | Table | Grain / Purpose |

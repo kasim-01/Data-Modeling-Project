@@ -38,7 +38,8 @@ erDiagram
     security ||--o{ dim_customer : region
 ```
 
-> ![Dashboard Preview](Data%20model.png)
+![Dashboard Preview](Data%20model.png)
+
 ### Tables
 
 | Type | Table | Grain / Purpose |
@@ -140,4 +141,5 @@ A one-page report with KPI cards for the four measures above, built directly on 
 **Kasim**
 B.Tech CSE (2027) | Aspiring Data Analyst | SQL · Excel · Python · Power BI
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/kasim-abbasi-889b61308) · [GitHub](https://github.com/kasim-01)
+
